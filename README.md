@@ -1,4 +1,8 @@
-# EAEEE9305_Final_Project
+# EAEEE9305 Final Project
+## Reconstructed Solar-Induced Fluorescence Based on AVHRR and MODIS RED NIR Reflectance Data
+
+* Yu Huang, Weiwei Zhan
+
 This repository contains all the codes for the final project of course EAEEE9305. The procedures are listed below.
 
 1. Pair the AVHRR with Yao Zhang's MODIS & AVHRR data.
